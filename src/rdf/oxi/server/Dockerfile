@@ -1,0 +1,1 @@
+FROM ghcr.io/oxigraph/oxigraph:latest

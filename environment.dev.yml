@@ -1,0 +1,11 @@
+name: dbs4ifc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - oxigraph-server
+  - pyoxigraph
+  - pip
+  - pip:
+    - edgedb
+    - rdflib
